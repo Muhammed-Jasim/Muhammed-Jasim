@@ -1,8 +1,6 @@
 Hi there 👋
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=35&pause=1000&color=2A37D0&width=435&lines=Muhammed+Jasim+K;Full-Stack+Developer)](https://git.io/typing-svg)
-
+Muhammed Jasim k
 
 
 <div align="left">
@@ -41,9 +39,6 @@ Hi there 👋
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   <a href="https://twitter.com/Muhamme75011534" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="jasimkmails@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
