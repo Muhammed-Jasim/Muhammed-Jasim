@@ -1,7 +1,6 @@
 Hi there 👋
 
-https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=35&pause=1000&color=2A37D0&width=435&lines=Muhammed+Jasim+K;Full-Stack+Developer)](https://git.io/typing-svg
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=35&pause=1000&color=2A37D0&width=435&lines=Muhammed+Jasim+K;Full-Stack+Developer)](https://git.io/typing-svg)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
