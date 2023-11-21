@@ -1,6 +1,6 @@
 Hi there 👋
 
-Muhammed Jasim k
+https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=35&pause=1000&color=2A37D0&width=435&lines=Muhammed+Jasim+K;Full-Stack+Developer)](https://git.io/typing-svg
 
 
 <div align="left">
